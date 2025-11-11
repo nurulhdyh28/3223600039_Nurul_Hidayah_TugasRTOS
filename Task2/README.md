@@ -49,3 +49,6 @@ Library yang Dibutuhkan
 - Adafruit_SSD1306.h 
 - ESP32Servo.h 
 - AccelStepper.h
+
+Hasil Percobaan :
+https://drive.google.com/file/d/1_LplStnZ15_djfWGQYQkGB83fuExPmkm/view?usp=sharing
